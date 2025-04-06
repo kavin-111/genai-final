@@ -1,0 +1,9 @@
+streamlit
+requests
+pdfplumber
+numpy
+beautifulsoup4
+sentence-transformers
+google-generativeai
+supabase
+python-dotenv
